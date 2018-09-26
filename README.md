@@ -1,2 +1,0 @@
-# htmlSp
-Created with CodeSandbox

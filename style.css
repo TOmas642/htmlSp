@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+h1 {
+  font-family: Times New Roman;
+  font-size: 42px;
+  color: #1552ff;
+  background-color: chocolate;
+  text-decoration: underline;
+  font-style: italic;
+
+  margin: 30px 5px 15px 5px;
+  padding: 20px 10px 5px 0px;
+}
